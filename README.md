@@ -1,4 +1,4 @@
-# Coockie OS
+# Cookie OS
 This is a lightweight operating system designed for the EFR32 platform, providing basic scheduling, memory management, and hardware abstraction for GPIO, UART, and timer peripherals.
 
 ## Features
